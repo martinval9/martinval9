@@ -1,4 +1,3 @@
-### Hi there 👋
 <a href="https://app.daily.dev/martinval9"><img src="https://api.daily.dev/devcards/ca3b9f1f21e940048fe874b6835727ef.png?r=42l" width="400" alt="Martin's Dev Card"/></a>
 <!--
 **martinval9/martinval9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
